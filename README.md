@@ -201,7 +201,7 @@ This project was developed for the Government of Punjab hackathon focusing on Sm
 
 ## 📞 Contact
 
-For questions, suggestions, or collaboration opportunities regarding this rural education initiative, please reach out to me at email:messiahravant@gmail.com.
+For questions, suggestions, or collaboration opportunities regarding this rural education initiative, please reach out to me at email:ssadhanasri2020@gmail.com.
 
 ## 🏆 Hackathon Achievement
 
